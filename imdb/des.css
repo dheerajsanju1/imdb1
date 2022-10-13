@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+    background-image: url('5.jpg');
+}
+.main
+{
+    width: 60%;
+    height: 760px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    border-radius: 25px;
+    border: 2px solid blanchedalmond;
+    margin-top: 10px;
+}
+.main img
+{
+    height:400px;
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 10px;   
+}
+.inner2
+{
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Noto Serif', serif;    
+}
